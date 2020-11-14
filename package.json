@@ -1,0 +1,21 @@
+{
+  "name": "zzc-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "zzc-pack": "./bin/zzc-pack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiger-colonel/zzc-pack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiger-colonel/zzc-pack/issues"
+  },
+  "homepage": "https://github.com/tiger-colonel/zzc-pack#readme"
+}
